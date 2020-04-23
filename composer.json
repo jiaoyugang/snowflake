@@ -1,5 +1,5 @@
 {
-    "name": "kongflower/mini_paylib",
+    "name": "kongflower/snowflake",
     "description": "the mini app pay",
     "keywords": ["alipay", "wechat", "toutiao"],
     "type": "library",
