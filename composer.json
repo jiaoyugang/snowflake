@@ -1,7 +1,7 @@
 {
     "name": "kongflower/snowflake",
     "description": "the mini app pay",
-    "keywords": ["alipay", "wechat", "toutiao"],
+    "keywords": ["snowflake", "uniqueId", "id"],
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,9 @@
         }
     ],
     "require": {
-        "php": ">=7.0"
+        "php": ">=7.0",
+        "php-bcmath":"*",
+        "gmp":"*"
     },
     "autoload":{
         "psr-4":{
