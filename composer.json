@@ -11,9 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
-        "php-bcmath":"*",
-        "gmp":"*"
+        "php": ">=7.0"
     },
     "autoload":{
         "psr-4":{
